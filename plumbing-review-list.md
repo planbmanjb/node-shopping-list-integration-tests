@@ -28,6 +28,9 @@ To do: confirm each one in the code book. If the source key turns out to be righ
 | 308–316 | 18 | 6-inch PVC drain needs ___ at a **45-degree** change in direction | B (sway bracing) | §308.6 requires sway bracing at changes **greater than** 45°, so an exact 45° turn arguably doesn't trigger it. |
 | 412–426 | 21 | Head shampoo sink faucets require ___ | C (integral check valves) | Not sure of §412.10's exact wording; option A (limit to 110°F) may be the intended answer. Check the code book. |
 | 606–613 | 14 | Private well distance from a septic tank | D (25 ft) | Matches IPC Table 608.18.1, but Virginia's private well regulations may require a larger setback. Check which rule your exam uses. |
+| 701–707 | 22 | Caulking ferrules shall be ___ | A (copper alloy) | Bronze (B) and copper (C) are close variants. Check the exact §705.18 wording. |
+| 701–707 | 25 | 3-inch branch, horizontal-to-horizontal fitting | D (wye) | Check the Table 706.3 footnotes: a short sweep (C) may also be allowed at 3 inches and larger. |
+| 708–717 | 19 | Sump pit cover shall be installed ___ | B (≤ 2 in. below floor) | Not sure of the exact §712.3.2 cover wording. Check the code book. |
 
 To do: decide whether to reword these questions or keep them as printed in the source.
 
@@ -61,5 +64,5 @@ Questions 1–3 (Sections 101.2 and 102.1) look correct.
 ## 4. Not yet built
 
 - Chapter 2 (Definitions): 1 sample question only
-- Sections 701–707, 708–717, 901–909
+- Sections 901–909
 - Chapters 11–14
