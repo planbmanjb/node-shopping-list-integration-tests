@@ -1,7 +1,7 @@
 # Plumbing Code Prep: Questions to Review
 
 Everything flagged so far, for one review session with the 2021 IPC (Virginia) code book.
-Nothing in the study page has changed since this list was made.
+Answers in the app follow the source answer keys, except the two corrections in section 1.
 
 ## 1. Source answer key looks wrong (already changed in the app)
 
@@ -19,6 +19,8 @@ To do: confirm each one in the code book. If the source key turns out to be righ
 | Ch 5 | 15 | Cold water valve to the water heater shall not ___ | B (serve any other fixture) | §503.1 says the valve must not interfere with or cut off the supply to any other part of the system; "serve any other fixture" is a loose paraphrase. |
 | Ch 8 | 16 | Laundry tray may discharge to the washer standpipe provided its waste line ___ | B (is without a trap and connects directly) | D ("discharges to the standpipe") is also technically true. |
 | Ch 10 | 7 | Trap seals subject to evaporation are protected by a primer or a ___ | D (barrier-type device) | Older code editions also allowed a deep-seal trap (option A), which can be confusing. |
+| 301–307 | 2 | Code vs. manufacturer's instructions conflict: the ___ requirements apply | C (more restrictive) | §301.7 literally says the **code** applies (option A), with an exception when the listing or instructions are more restrictive. C reflects the net effect; A is the literal wording. |
+| 308–316 | 18 | 6-inch PVC drain needs ___ at a **45-degree** change in direction | B (sway bracing) | §308.6 requires sway bracing at changes **greater than** 45°, so an exact 45° turn arguably doesn't trigger it. |
 
 To do: decide whether to reword these questions or keep them as printed in the source.
 
@@ -52,5 +54,5 @@ Questions 1–3 (Sections 101.2 and 102.1) look correct.
 ## 4. Not yet built
 
 - Chapter 2 (Definitions): 1 sample question only
-- Sections 301–307, 308–316, 401–411, 412–426, 601–605, 606–613, 701–707, 708–717, 901–909
+- Sections 401–411, 412–426, 601–605, 606–613, 701–707, 708–717, 901–909
 - Chapters 11–14
