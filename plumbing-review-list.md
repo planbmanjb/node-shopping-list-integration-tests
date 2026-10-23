@@ -17,7 +17,7 @@ _Note: the 412–426 PDF numbers questions 15–23 as 1–9. In the app they are
 
 To do: confirm each one in the code book. If the source key turns out to be right, the answer can be switched back.
 
-## 2. Answer is right, but the question is badly written
+## 2. Questionable (app keeps the source key answer)
 
 | Deck | Q | Question (short) | Answer | Issue |
 |---|---|---|---|---|
