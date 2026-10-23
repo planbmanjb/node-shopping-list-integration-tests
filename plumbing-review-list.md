@@ -63,6 +63,35 @@ The Chapter 1 deck came with your original page, not from a PDF with an answer k
 
 Questions 1–3 (Sections 101.2 and 102.1) look correct.
 
-## 4. Not yet built
+## 4. Chapter 2 deck written by Claude (no source answer key)
 
-- Chapter 2 (Definitions): 1 sample question only
+The Chapter 2 (Definitions) questions didn't come with a source, so I wrote all 25 from the 2021 IPC Chapter 2 definitions.
+Each card notes this. Check each one against the definition in the code book:
+
+| Q | Term | Answer in app |
+|---|---|---|
+| 1 | Branch interval | 8 ft |
+| 2 | Air gap (drainage) | Open distance above the flood level rim |
+| 3 | Air break | Below the flood rim, above the trap seal |
+| 4 | Bathroom group | May include a bidet and/or emergency floor drain |
+| 5 | Building drain | Extends 30 in. beyond the walls |
+| 6 | Building sewer | From the end of the building drain to the point of disposal |
+| 7 | Developed length | Measured along the center line of pipe and fittings |
+| 8 | Dead end | 2 ft or more |
+| 9 | Horizontal pipe | Less than 45° from horizontal |
+| 10 | Vertical pipe | Not more than 45° from vertical |
+| 11 | Gray water | Excludes kitchen sinks |
+| 12 | Stack vent | Extension above the highest horizontal drain |
+| 13 | Vent stack | Vertical vent for air circulation |
+| 14 | Wet vent | Vent that also carries waste |
+| 15 | Circuit vent | Up to 8 traps in a battery |
+| 16 | Tempered water | 85–110°F |
+| 17 | Flood level rim | Edge where water overflows |
+| 18 | Fixture drain | Trap to the first junction |
+| 19 | Fixture branch | Serves two or more fixtures |
+| 20 | Indirect waste pipe | Discharges through an air break or air gap |
+| 21 | Ready access | No panels removed, no portable ladder |
+| 22 | Clear water waste | Condensate, cooling water, boiler blowdown |
+| 23 | Soil pipe | Contains fecal matter |
+| 24 | Sump | Below gravity, emptied mechanically |
+| 25 | Cross connection | Potable connected to a questionable system |
