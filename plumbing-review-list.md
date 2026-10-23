@@ -16,6 +16,7 @@ _Note: the 901–909 PDF's file title says "Sec. 910–920", but the questions a
 | 401–411 | 2 | Business, 320 occupants: women's lavatories | D (5) | **B** (3) | Key used all 320 people. §403.1.1 splits 50/50 → 160 women: 80 ÷ 40 = 2, plus 80 ÷ 80 = 1 → **3**. |
 | 401–411 | 3 | Indoor arena, 5,440 occupants: women's water closets | B (67) | **C** (58) | Key skipped the 50/50 split and counted the first 1,520 occupants as 1 fixture. 2,720 women: 1,520 ÷ 40 = 38, plus 1,200 ÷ 60 = 20 → **58**. |
 | 401–411 | 4 | Same arena: women's lavatories | D (37) | **C** (19) | Key used all 5,440 people. 2,720 women ÷ 150 = 18.13 → **19**. |
+| 301–307 | 12 | Shield plates not required if bored hole is at least ___ in. from stud edge | D (1½) | **C** (1¼) | **Confirmed in your code book (v1.6):** §305.6 says 1¼ inches. |
 
 To do: confirm each one in the code book. If the source key turns out to be right, the answer can be switched back.
 

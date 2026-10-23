@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--
   Plumbing Code Prep (T.R.I.C.K. Edition)
-  Version: 1.5  (change APP_VERSION in the script below when releasing an update)
+  Version: 1.6  (change APP_VERSION in the script below when releasing an update)
 
   Changelog
   1.0  First numbered release: 16 decks, 375 questions (2021 IPC, Virginia).
@@ -10,12 +10,13 @@
   1.3  Chapter 1 Q25: section reference corrected from 112.2 to 111.3 (verified in code book).
   1.4  Chapter 1 Q25: answer changed from D (testing) to C (construction purposes) per Virginia §111.3 text.
   1.5  Chapter 1 Q25: answer set back to D (source key); Virginia wording noted on the card and in the review list.
+  1.6  Sections 301-307 Q12: answer changed from D (1 1/2 in.) to C (1 1/4 in.) per the user's code book, Section 305.6.
 -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plumbing Code Prep v1.5 (T.R.I.C.K. Edition)</title>
+    <title>Plumbing Code Prep v1.6 (T.R.I.C.K. Edition)</title>
     <style>
         :root {
             --primary: #2563eb;
@@ -453,7 +454,7 @@
         <div class="header-top">
             <div class="brand-title">
                 🔧 Plumbing Code Prep
-                <span class="version-badge" id="versionBadge">v1.5 · T.R.I.C.K.</span>
+                <span class="version-badge" id="versionBadge">v1.6 · T.R.I.C.K.</span>
             </div>
         </div>
 
@@ -619,7 +620,7 @@ Note: Short explanation  (optional)</div>
 
     <script>
         // App version: bump this (and the changelog at the top of the file) for each update
-        const APP_VERSION = "1.5";
+        const APP_VERSION = "1.6";
 
         const masterDatabase = [
             // CHAPTER 1 - SCOPE AND ADMINISTRATION (ALL 25 QUESTIONS)
@@ -2189,15 +2190,15 @@ Note: Short explanation  (optional)</div>
                 section: "301-307",
                 q: "12. Where concealed copper piping passes through holes bored in wood studs, shield plates are not required if the bored holes are at least ___ inch from the nearest edge of the studs.",
                 opts: ["A. 5/8", "B. 1", "C. 1 ¼", "D. 1 ½"],
-                correctIndex: 3,
-                line1: "Option D: 1 ½",
-                line2: "Shield plates are required where piping (other than cast iron or steel) is less than 1½ inches from the nearest edge of the framing member.",
+                correctIndex: 2,
+                line1: "Option C: 1 ¼",
+                line2: "Shield plates are required where piping (other than cast iron or steel) is less than 1¼ inches from the nearest edge of the framing member.",
                 ref: "IPC 305.6",
                 t: "Protection Against Physical Damage",
-                r: "2021 IPC Section 305.6",
-                i: "General Regulations -> Physical Damage -> 1½ in. From Edge",
-                c: "Shield plates are required where piping (other than cast iron or steel) is less than 1½ inches from the nearest edge of the framing member.",
-                k: "IPC = 1½ in. from the edge (the IRC uses 1¼ in.)."
+                r: "2021 IPC (Virginia) Section 305.6",
+                i: "General Regulations -> Physical Damage -> 1¼ in. From Edge",
+                c: "Confirmed in your Virginia code book: 1¼ inches from the nearest edge (§305.6). (The source answer key says D, 1½.)",
+                k: "Shield plates: needed if the hole is closer than 1¼ in. to the edge."
             },
             {
                 section: "301-307",
