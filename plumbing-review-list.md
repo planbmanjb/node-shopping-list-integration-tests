@@ -3,6 +3,8 @@
 Everything flagged so far, for one review session with the 2021 IPC (Virginia) code book.
 Answers in the app follow the source answer keys, except the corrections in section 1.
 
+_Chapter 1 was replaced in v1.1 with the 1 Exam Prep Chapter 1 set; all 25 answers checked out, so nothing from Chapter 1 is listed here._
+
 _Note: the 901–909 PDF's file title says "Sec. 910–920", but the questions are Sections 901–909. The 412–426 PDF numbers questions 15–23 as 1–9. In the app they are numbered 15–23._
 
 ## 1. Source answer key looks wrong (already changed in the app)
@@ -36,34 +38,7 @@ To do: confirm each one in the code book. If the source key turns out to be righ
 
 To do: decide whether to reword these questions or keep them as printed in the source.
 
-## 3. Chapter 1 section numbers not checked
-
-The Chapter 1 deck came with your original page, not from a PDF with an answer key. The answers look right, but many of the section numbers look like **2018** IPC numbering. In the 2021 IPC, Chapter 1 was renumbered (for example, permits moved from Section 106 to Section 105).
-
-| Q | Topic | Ref in app | Check in 2021 code |
-|---|---|---|---|
-| 4 | Permit application abandoned after 180 days | 106.5.3 | Probably 105.3.2 (Time limitation of application) |
-| 5 | Extensions for permit applications, ≤ 180 days | 106.5.3 | Probably 105.3.2 |
-| 6 | Permit invalid if work is suspended 180 days | 106.5.5 | Probably 105.5 (Expiration) |
-| 7 | Department records | 104.7 | Confirm |
-| 8 | Right of entry / credentials | 104.4 | Confirm |
-| 9 | Emergency utility disconnection | 104.5 | Confirm (may be in the Service Utilities section) |
-| 10 | Modifications applied for in writing | 105.1 | Confirm (may be 104.10) |
-| 11 | Tests of alternate materials at the applicant's expense | 105.3 | Confirm (may be 104.11.x) |
-| 12, 13 | Work exempt from permit (leaks, stoppages) | 106.2 | Probably 105.2 |
-| 14, 15 | Stop work orders and penalties | 108.1, 108.4 | Confirm |
-| 16, 17 | Board of appeals | 109.2, 109.3 | Confirm |
-| 18 | Annual permit | 106.1.1 | Confirm |
-| 19 | Temporary connection | 107.4 | Confirm |
-| 20 | Code official liability | 103.4 | Confirm (may be 104.8) |
-| 21 | Examination of plans | 106.3 | Confirm |
-| 22 | Service of violation notice | 108.2 | Confirm |
-| 23, 24 | Required inspections / approval before proceeding | 107.3 | Confirm |
-| 25 | Validity / severability | 102.11 | Confirm |
-
-Questions 1–3 (Sections 101.2 and 102.1) look correct.
-
-## 4. Chapter 2 deck written by Claude (no source answer key)
+## 3. Chapter 2 deck written by Claude (no source answer key)
 
 The Chapter 2 (Definitions) questions didn't come with a source, so I wrote all 25 from the 2021 IPC Chapter 2 definitions.
 Each card notes this. Check each one against the definition in the code book:
