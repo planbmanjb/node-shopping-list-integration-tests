@@ -1,7 +1,9 @@
 # Plumbing Code Prep: Questions to Review
 
 Everything flagged so far, for one review session with the 2021 IPC (Virginia) code book.
-Answers in the app follow the source answer keys, except the two corrections in section 1.
+Answers in the app follow the source answer keys, except the corrections in section 1.
+
+_Note: the 412–426 PDF numbers questions 15–23 as 1–9. In the app they are numbered 15–23._
 
 ## 1. Source answer key looks wrong (already changed in the app)
 
@@ -9,6 +11,9 @@ Answers in the app follow the source answer keys, except the two corrections in 
 |---|---|---|---|---|---|
 | Ch 5 | 8 | T&P relief drain shall **not** discharge to ___ | D (a point ≤ 6 in. above the floor) | **C** (the water heater pan) | §504.6 *requires* the discharge to end no more than 6 in. above the floor, and separately says it must not discharge into the pan serving the water heater. |
 | Ch 10 | 12 | Grease interceptor discharge piping is directly connected to the ___ | B (oil separator) | **A** (sanitary drainage system) | §1003.3.8 says grease interceptor discharge piping connects directly to the sanitary drainage system. |
+| 401–411 | 2 | Business, 320 occupants: women's lavatories | D (5) | **B** (3) | Key used all 320 people. §403.1.1 splits 50/50 → 160 women: 80 ÷ 40 = 2, plus 80 ÷ 80 = 1 → **3**. |
+| 401–411 | 3 | Indoor arena, 5,440 occupants: women's water closets | B (67) | **C** (58) | Key skipped the 50/50 split and counted the first 1,520 occupants as 1 fixture. 2,720 women: 1,520 ÷ 40 = 38, plus 1,200 ÷ 60 = 20 → **58**. |
+| 401–411 | 4 | Same arena: women's lavatories | D (37) | **C** (19) | Key used all 5,440 people. 2,720 women ÷ 150 = 18.13 → **19**. |
 
 To do: confirm each one in the code book. If the source key turns out to be right, the answer can be switched back.
 
@@ -21,6 +26,7 @@ To do: confirm each one in the code book. If the source key turns out to be righ
 | Ch 10 | 7 | Trap seals subject to evaporation are protected by a primer or a ___ | D (barrier-type device) | Older code editions also allowed a deep-seal trap (option A), which can be confusing. |
 | 301–307 | 2 | Code vs. manufacturer's instructions conflict: the ___ requirements apply | C (more restrictive) | §301.7 literally says the **code** applies (option A), with an exception when the listing or instructions are more restrictive. C reflects the net effect; A is the literal wording. |
 | 308–316 | 18 | 6-inch PVC drain needs ___ at a **45-degree** change in direction | B (sway bracing) | §308.6 requires sway bracing at changes **greater than** 45°, so an exact 45° turn arguably doesn't trigger it. |
+| 412–426 | 21 | Head shampoo sink faucets require ___ | C (integral check valves) | Not sure of §412.10's exact wording; option A (limit to 110°F) may be the intended answer. Check the code book. |
 
 To do: decide whether to reword these questions or keep them as printed in the source.
 
@@ -54,5 +60,5 @@ Questions 1–3 (Sections 101.2 and 102.1) look correct.
 ## 4. Not yet built
 
 - Chapter 2 (Definitions): 1 sample question only
-- Sections 401–411, 412–426, 601–605, 606–613, 701–707, 708–717, 901–909
+- Sections 601–605, 606–613, 701–707, 708–717, 901–909
 - Chapters 11–14
