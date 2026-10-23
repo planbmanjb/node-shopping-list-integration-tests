@@ -3,7 +3,7 @@
 Everything flagged so far, for one review session with the 2021 IPC (Virginia) code book.
 Answers in the app follow the source answer keys, except the corrections in section 1.
 
-_Note: the 412–426 PDF numbers questions 15–23 as 1–9. In the app they are numbered 15–23._
+_Note: the 901–909 PDF's file title says "Sec. 910–920", but the questions are Sections 901–909. The 412–426 PDF numbers questions 15–23 as 1–9. In the app they are numbered 15–23._
 
 ## 1. Source answer key looks wrong (already changed in the app)
 
@@ -31,6 +31,8 @@ To do: confirm each one in the code book. If the source key turns out to be righ
 | 701–707 | 22 | Caulking ferrules shall be ___ | A (copper alloy) | Bronze (B) and copper (C) are close variants. Check the exact §705.18 wording. |
 | 701–707 | 25 | 3-inch branch, horizontal-to-horizontal fitting | D (wye) | Check the Table 706.3 footnotes: a short sweep (C) may also be allowed at 3 inches and larger. |
 | 708–717 | 19 | Sump pit cover shall be installed ___ | B (≤ 2 in. below floor) | Not sure of the exact §712.3.2 cover wording. Check the code book. |
+| 901–909 | 8 | Which city requires frost closure protection for vents | C (Goodland, KS) | Depends on the Appendix D design temperatures (below 0°F). I can't verify the city values; check Appendix D. |
+| Ch 11–14 | 21 | Gray water for flushing toilets/urinals requires ___ | D (disinfection) | Some code editions also require blue or green dye (C). Check the 2021 §1302 wording. |
 
 To do: decide whether to reword these questions or keep them as printed in the source.
 
@@ -64,5 +66,3 @@ Questions 1–3 (Sections 101.2 and 102.1) look correct.
 ## 4. Not yet built
 
 - Chapter 2 (Definitions): 1 sample question only
-- Sections 901–909
-- Chapters 11–14
