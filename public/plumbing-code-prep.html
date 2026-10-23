@@ -1,19 +1,20 @@
 <!DOCTYPE html>
 <!--
   Plumbing Code Prep (T.R.I.C.K. Edition)
-  Version: 1.3  (change APP_VERSION in the script below when releasing an update)
+  Version: 1.4  (change APP_VERSION in the script below when releasing an update)
 
   Changelog
   1.0  First numbered release: 16 decks, 375 questions (2021 IPC, Virginia).
   1.1  Replaced Chapter 1 with the 1 Exam Prep Chapter 1 Q&A set (2021 section numbers).
   1.2  Chapter 1 Q15: section reference corrected from 108.2 to 112.2 (verified in code book).
   1.3  Chapter 1 Q25: section reference corrected from 112.2 to 111.3 (verified in code book).
+  1.4  Chapter 1 Q25: answer changed from D (testing) to C (construction purposes) per Virginia §111.3 text.
 -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plumbing Code Prep v1.3 (T.R.I.C.K. Edition)</title>
+    <title>Plumbing Code Prep v1.4 (T.R.I.C.K. Edition)</title>
     <style>
         :root {
             --primary: #2563eb;
@@ -451,7 +452,7 @@
         <div class="header-top">
             <div class="brand-title">
                 🔧 Plumbing Code Prep
-                <span class="version-badge" id="versionBadge">v1.3 · T.R.I.C.K.</span>
+                <span class="version-badge" id="versionBadge">v1.4 · T.R.I.C.K.</span>
             </div>
         </div>
 
@@ -617,7 +618,7 @@ Note: Short explanation  (optional)</div>
 
     <script>
         // App version: bump this (and the changelog at the top of the file) for each update
-        const APP_VERSION = "1.3";
+        const APP_VERSION = "1.4";
 
         const masterDatabase = [
             // CHAPTER 1 - SCOPE AND ADMINISTRATION (ALL 25 QUESTIONS)
@@ -961,15 +962,15 @@ Note: Short explanation  (optional)</div>
                 section: "chap1",
                 q: "25. The code official may allow temporary connection to the utility source ___.",
                 opts: ["A. Pending the outcome of an appeal", "B. For a period not exceeding 60 days", "C. For construction purposes", "D. For testing plumbing systems"],
-                correctIndex: 3,
-                line1: "Option D: For testing plumbing systems",
-                line2: "Temporary connection to the utility source may be authorized for testing plumbing systems or for use under a temporary certificate of occupancy.",
+                correctIndex: 2,
+                line1: "Option C: For construction purposes",
+                line2: "Virginia §111.3 (Temporary Utilities) lets the code official permit temporary utilities before an installation is fully completed and the final certificate is issued, meeting the code's requirements for temporary lighting, heat or power.",
                 ref: "IPC 111.3",
-                t: "Temporary Connection",
-                r: "2021 IPC Section 111.3 (Temporary connection)",
-                i: "Administration -> Service Utilities -> Temporary Connection for Testing",
-                c: "Temporary connection to the utility source may be authorized for testing plumbing systems or for use under a temporary certificate of occupancy.",
-                k: "Temporary utility hookup: for testing."
+                t: "Temporary Utilities",
+                r: "2021 IPC (Virginia) Section 111.3 (Temporary Utilities)",
+                i: "Administration -> Temporary Utilities -> Before Final Completion",
+                c: "Your Virginia book's §111.3 covers temporary utilities during construction, not testing. (The source answer key says D, based on the model IPC wording, which your book doesn't use.)",
+                k: "Temporary utilities = before completion (temporary lighting, heat, power)."
             },
 
             // CHAPTER 5 - WATER HEATERS (ALL 25 QUESTIONS)
