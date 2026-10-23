@@ -16,7 +16,6 @@ _Note: the 901–909 PDF's file title says "Sec. 910–920", but the questions a
 | 401–411 | 2 | Business, 320 occupants: women's lavatories | D (5) | **B** (3) | Key used all 320 people. §403.1.1 splits 50/50 → 160 women: 80 ÷ 40 = 2, plus 80 ÷ 80 = 1 → **3**. |
 | 401–411 | 3 | Indoor arena, 5,440 occupants: women's water closets | B (67) | **C** (58) | Key skipped the 50/50 split and counted the first 1,520 occupants as 1 fixture. 2,720 women: 1,520 ÷ 40 = 38, plus 1,200 ÷ 60 = 20 → **58**. |
 | 401–411 | 4 | Same arena: women's lavatories | D (37) | **C** (19) | Key used all 5,440 people. 2,720 women ÷ 150 = 18.13 → **19**. |
-| Ch 1 | 25 | Code official may allow temporary connection to the utility source ___ | D (for testing) | **C** (for construction purposes) | **Confirmed in your book (v1.4).** Virginia §111.3 "Temporary Utilities" allows temporary utilities before the installation is fully completed, for temporary lighting, heat or power. It doesn't mention testing; the key's answer follows the model IPC. |
 
 To do: confirm each one in the code book. If the source key turns out to be right, the answer can be switched back.
 
@@ -36,6 +35,7 @@ To do: confirm each one in the code book. If the source key turns out to be righ
 | 708–717 | 19 | Sump pit cover shall be installed ___ | B (≤ 2 in. below floor) | Not sure of the exact §712.3.2 cover wording. Check the code book. |
 | 901–909 | 8 | Which city requires frost closure protection for vents | C (Goodland, KS) | Depends on the Appendix D design temperatures (below 0°F). I can't verify the city values; check Appendix D. |
 | Ch 11–14 | 21 | Gray water for flushing toilets/urinals requires ___ | D (disinfection) | Some code editions also require blue or green dye (C). Check the 2021 §1302 wording. |
+| Ch 1 | 25 | Code official may allow temporary connection to the utility source ___ | D (for testing plumbing systems) | Your Virginia book's §111.3 "Temporary Utilities" reads: permission to temporarily supply utilities *before an installation has been fully completed and final certificate of completion has been issued*, complying with requirements for temporary lighting, heat or power. No mention of testing, so C (for construction purposes) may fit your book better. The key's D follows the model IPC wording. |
 
 To do: decide whether to reword these questions or keep them as printed in the source.
 
