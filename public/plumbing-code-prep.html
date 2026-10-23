@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <!--
   Plumbing Code Prep (T.R.I.C.K. Edition)
-  Version: 1.1  (change APP_VERSION in the script below when releasing an update)
+  Version: 1.2  (change APP_VERSION in the script below when releasing an update)
 
   Changelog
   1.0  First numbered release: 16 decks, 375 questions (2021 IPC, Virginia).
   1.1  Replaced Chapter 1 with the 1 Exam Prep Chapter 1 Q&A set (2021 section numbers).
+  1.2  Chapter 1 Q15: section reference corrected from 108.2 to 112.2 (verified in code book).
 -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plumbing Code Prep v1.1 (T.R.I.C.K. Edition)</title>
+    <title>Plumbing Code Prep v1.2 (T.R.I.C.K. Edition)</title>
     <style>
         :root {
             --primary: #2563eb;
@@ -449,7 +450,7 @@
         <div class="header-top">
             <div class="brand-title">
                 🔧 Plumbing Code Prep
-                <span class="version-badge" id="versionBadge">v1.1 · T.R.I.C.K.</span>
+                <span class="version-badge" id="versionBadge">v1.2 · T.R.I.C.K.</span>
             </div>
         </div>
 
@@ -615,7 +616,7 @@ Note: Short explanation  (optional)</div>
 
     <script>
         // App version: bump this (and the changelog at the top of the file) for each update
-        const APP_VERSION = "1.1";
+        const APP_VERSION = "1.2";
 
         const masterDatabase = [
             // CHAPTER 1 - SCOPE AND ADMINISTRATION (ALL 25 QUESTIONS)
@@ -822,9 +823,9 @@ Note: Short explanation  (optional)</div>
                 correctIndex: 0,
                 line1: "Option A: Permit holder",
                 line2: "The permit holder (or their agent) is responsible for scheduling required inspections.",
-                ref: "IPC 108.2",
+                ref: "IPC 112.2",
                 t: "Inspection Scheduling",
-                r: "2021 IPC Section 108.2",
+                r: "2021 IPC Section 112.2 (Inspection requests)",
                 i: "Administration -> Inspections -> Permit Holder Schedules",
                 c: "The permit holder (or their agent) is responsible for scheduling required inspections.",
                 k: "Permit holder calls for inspections."
