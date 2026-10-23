@@ -75,6 +75,7 @@ Each card notes this. Check each one against the definition in the code book:
 
 | Deck | Q | Question (short) | Answer (OK) | Ref in app | Issue |
 |---|---|---|---|---|---|
-| Ch 1 | 25 | Temporary connection to the utility source | D (for testing plumbing systems) | 112.2 | The key cites 112.2 here too, but your book has Inspection requests at 112.2. Look up "Temporary connection" (likely in the Service Utilities section) for the right number. |
 
 **Fixed:** Ch 1 Q15 (inspection scheduling): reference changed from 108.2 to **112.2**, confirmed in your code book (v1.2).
+
+**Fixed:** Ch 1 Q25 (temporary connection): reference changed from 112.2 to **111.3**, confirmed in your code book (v1.3).
