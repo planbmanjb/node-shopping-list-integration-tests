@@ -1,0 +1,56 @@
+# Plumbing Code Prep: Questions to Review
+
+Everything flagged so far, for one review session with the 2021 IPC (Virginia) code book.
+Nothing in the study page has changed since this list was made.
+
+## 1. Source answer key looks wrong (already changed in the app)
+
+| Deck | Q | Question (short) | Source key | App now shows | Why |
+|---|---|---|---|---|---|
+| Ch 5 | 8 | T&P relief drain shall **not** discharge to ___ | D (a point ≤ 6 in. above the floor) | **C** (the water heater pan) | §504.6 *requires* the discharge to end no more than 6 in. above the floor, and separately says it must not discharge into the pan serving the water heater. |
+| Ch 10 | 12 | Grease interceptor discharge piping is directly connected to the ___ | B (oil separator) | **A** (sanitary drainage system) | §1003.3.8 says grease interceptor discharge piping connects directly to the sanitary drainage system. |
+
+To do: confirm each one in the code book. If the source key turns out to be right, the answer can be switched back.
+
+## 2. Answer is right, but the question is badly written
+
+| Deck | Q | Question (short) | Answer | Issue |
+|---|---|---|---|---|
+| Ch 5 | 15 | Cold water valve to the water heater shall not ___ | B (serve any other fixture) | §503.1 says the valve must not interfere with or cut off the supply to any other part of the system; "serve any other fixture" is a loose paraphrase. |
+| Ch 8 | 16 | Laundry tray may discharge to the washer standpipe provided its waste line ___ | B (is without a trap and connects directly) | D ("discharges to the standpipe") is also technically true. |
+| Ch 10 | 7 | Trap seals subject to evaporation are protected by a primer or a ___ | D (barrier-type device) | Older code editions also allowed a deep-seal trap (option A), which can be confusing. |
+
+To do: decide whether to reword these questions or keep them as printed in the source.
+
+## 3. Chapter 1 section numbers not checked
+
+The Chapter 1 deck came with your original page, not from a PDF with an answer key. The answers look right, but many of the section numbers look like **2018** IPC numbering. In the 2021 IPC, Chapter 1 was renumbered (for example, permits moved from Section 106 to Section 105).
+
+| Q | Topic | Ref in app | Check in 2021 code |
+|---|---|---|---|
+| 4 | Permit application abandoned after 180 days | 106.5.3 | Probably 105.3.2 (Time limitation of application) |
+| 5 | Extensions for permit applications, ≤ 180 days | 106.5.3 | Probably 105.3.2 |
+| 6 | Permit invalid if work is suspended 180 days | 106.5.5 | Probably 105.5 (Expiration) |
+| 7 | Department records | 104.7 | Confirm |
+| 8 | Right of entry / credentials | 104.4 | Confirm |
+| 9 | Emergency utility disconnection | 104.5 | Confirm (may be in the Service Utilities section) |
+| 10 | Modifications applied for in writing | 105.1 | Confirm (may be 104.10) |
+| 11 | Tests of alternate materials at the applicant's expense | 105.3 | Confirm (may be 104.11.x) |
+| 12, 13 | Work exempt from permit (leaks, stoppages) | 106.2 | Probably 105.2 |
+| 14, 15 | Stop work orders and penalties | 108.1, 108.4 | Confirm |
+| 16, 17 | Board of appeals | 109.2, 109.3 | Confirm |
+| 18 | Annual permit | 106.1.1 | Confirm |
+| 19 | Temporary connection | 107.4 | Confirm |
+| 20 | Code official liability | 103.4 | Confirm (may be 104.8) |
+| 21 | Examination of plans | 106.3 | Confirm |
+| 22 | Service of violation notice | 108.2 | Confirm |
+| 23, 24 | Required inspections / approval before proceeding | 107.3 | Confirm |
+| 25 | Validity / severability | 102.11 | Confirm |
+
+Questions 1–3 (Sections 101.2 and 102.1) look correct.
+
+## 4. Not yet built
+
+- Chapter 2 (Definitions): 1 sample question only
+- Sections 301–307, 308–316, 401–411, 412–426, 601–605, 606–613, 701–707, 708–717, 901–909
+- Chapters 11–14
