@@ -3,7 +3,7 @@
 Everything flagged so far, for one review session with the 2021 IPC (Virginia) code book.
 Answers in the app follow the source answer keys, except the corrections in section 1.
 
-_Chapter 1 was replaced in v1.1 with the 1 Exam Prep Chapter 1 set; all 25 answers checked out, so nothing from Chapter 1 is listed here._
+_Chapter 1 was replaced in v1.1 with the 1 Exam Prep Chapter 1 set. All 25 answers checked out, but some of its section numbers may not match your book (see section 4)._
 
 _Note: the 901–909 PDF's file title says "Sec. 910–920", but the questions are Sections 901–909. The 412–426 PDF numbers questions 15–23 as 1–9. In the app they are numbered 15–23._
 
@@ -70,3 +70,9 @@ Each card notes this. Check each one against the definition in the code book:
 | 23 | Soil pipe | Contains fecal matter |
 | 24 | Sump | Below gravity, emptied mechanically |
 | 25 | Cross connection | Potable connected to a questionable system |
+
+## 4. Section numbers that don't match the code book
+
+| Deck | Q | Question (short) | Answer (OK) | Ref in app | Issue |
+|---|---|---|---|---|---|
+| Ch 1 | 15 | The ___ is responsible for inspection scheduling | A (permit holder) | 108.2 | No §108.2 in your book. Look for the "Inspection requests" wording: *it shall be the duty of the holder of the permit… to notify the code official when work is ready for inspection*. |
