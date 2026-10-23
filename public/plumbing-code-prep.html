@@ -1,9 +1,16 @@
 <!DOCTYPE html>
+<!--
+  Plumbing Code Prep (T.R.I.C.K. Edition)
+  Version: 1.0  (change APP_VERSION in the script below when releasing an update)
+
+  Changelog
+  1.0  First numbered release: 16 decks, 375 questions (2021 IPC, Virginia).
+-->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plumbing Code Prep - Version 3 (T.R.I.C.K. Edition)</title>
+    <title>Plumbing Code Prep v1.0 (T.R.I.C.K. Edition)</title>
     <style>
         :root {
             --primary: #2563eb;
@@ -73,6 +80,7 @@
             font-size: 0.75rem;
             font-weight: 700;
             border: 1px solid rgba(37, 99, 235, 0.4);
+            white-space: nowrap;
         }
 
         nav {
@@ -440,7 +448,7 @@
         <div class="header-top">
             <div class="brand-title">
                 🔧 Plumbing Code Prep
-                <span class="version-badge">Version 3 (T.R.I.C.K.)</span>
+                <span class="version-badge" id="versionBadge">v1.0 · T.R.I.C.K.</span>
             </div>
         </div>
 
@@ -605,6 +613,9 @@ Note: Short explanation  (optional)</div>
     </div>
 
     <script>
+        // App version: bump this (and the changelog at the top of the file) for each update
+        const APP_VERSION = "1.0";
+
         const masterDatabase = [
             // CHAPTER 1 - ADMINISTRATION (ALL 25 QUESTIONS)
             {
@@ -6138,6 +6149,8 @@ Note: Short explanation  (optional)</div>
         }
 
         // Initialize App
+        document.getElementById('versionBadge').innerText = `v${APP_VERSION} · T.R.I.C.K.`;
+        document.title = `Plumbing Code Prep v${APP_VERSION} (T.R.I.C.K. Edition)`;
         refreshDeckOptions();
         renderFlashcard();
         updateScoreDashboard();
